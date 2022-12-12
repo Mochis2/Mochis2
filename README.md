@@ -4,3 +4,11 @@
 - 💞️ [ONIFY](https://www.onify.ch/)
 - 📫 ...
 
+```mermaid
+graph TD
+      A[MSAL Confidential Client Application]-- money --> B([Go shopping]);
+      B --> C(Let me think)
+      C -- One --> D[Laptop]
+      C -- Two --> E[iPhone]
+      C -- Three --> F[Car]
+```
