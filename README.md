@@ -1,5 +1,4 @@
 - 👋 Name's Maurice
 - 👀 Coding
 - 🌱 1. Java, 2. Python, 3. C# ... still on the 1. :)
-- 💞️ Currently working at [ONIFY](https://www.onify.ch/)
 - 📫 ...
